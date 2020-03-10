@@ -1,0 +1,47 @@
+.container{
+    max-width: 100%;
+    height: 100vh;
+    background-image: url("pic/stage.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%  50%;
+    overflow: hidden;
+    position: relative;
+    cursor: url(pic/sniper.cur), auto;
+  }
+
+  #duck {
+    margin: 50px;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    cursor: pointer;
+    z-index: 2;
+    cursor: url(pic/sniper.cur), auto;
+  }
+
+  .scoreContainer {
+    background-color: black;
+    width: 15%;
+    color: #ffffff;
+    top: 5%;
+    right: 5%;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #score-text {
+    font-size: 1.5em;
+  }
+
+  #score-counter {
+    font-size: 3.1em;
+    font-weight: bold;
+    color: #06e515;
+  }

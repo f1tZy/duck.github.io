@@ -1,2 +1,3 @@
-# duck.github.io
-duckgame
+# https://duck.github.io/
+funnyGameTapDuck
+</br>Version v0.0.1
