@@ -1,10 +1,6 @@
 const duck=document.querySelector('#duck');
 const score=document.querySelector('#score-counter');
 const wrap=document.querySelector('#wrap');
-//создаем переменную с рандомным числом
-const randomNum=(num)=>{
-    return Math.floor(Math.random() * Math.floor(num));
-};
 let count = 0;
 
 
