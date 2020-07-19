@@ -3,8 +3,7 @@
 # [Ссылка на игру в github](https://f1tzy.github.io/duck.github.io/)
 
 ## Описание:
-* Простая игра с использование HTML, CSS, чистый JavaScript язык.
-* Проект создан с целью изучения JavaScript, HTML, CSS.
+* Простая игра с использование HTML, CSS, чистый JavaScript язык. В которой игрок должен попасть в утку, как можно больше раз.
 
 Version v0.0.1
 
